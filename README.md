@@ -17,6 +17,8 @@ The repository contains 12 `.colors` files covering all combinations of:
 4. Click **Install From File...** in the top right.
 5. Select any `.colors` file and click **Apply**.
 
+Alternatively. Copy and paste the files you want into `.local/share/color-schemes/`.
+
 ## Credits
 
 Based on the original [Gruvbox theme by morhetz](https://github.com/morhetz/gruvbox).
